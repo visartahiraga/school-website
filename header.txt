@@ -1,0 +1,28 @@
+   <!-- Navbar Start -->
+    <nav class="navbar navbar-expand-lg bg-white navbar-light sticky-top p-0 px-4 px-lg-5">
+        <a href="index.html" class="navbar-brand d-flex align-items-center">
+            <h2 class="m-0 text-primary"><img class="img-fluid me-2" src="img/logo.png" alt=""
+                    style="width: 45px;">Zemra e Krishtit </h2>
+        </a>
+        <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarCollapse">
+            <div class="navbar-nav ms-auto py-4 py-lg-0">
+                <a href="index.html" class="nav-item nav-link active">Kreu</a>
+                <a href="motrat.html" class="nav-item nav-link">Motrat Misionare</a>
+                <div class="nav-item dropdown">
+                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Shkolla</a>
+                    <div class="dropdown-menu shadow-sm m-0">
+                        <a href="kopshti.html" class="dropdown-item">Kopshti</a>
+                        <a href="fillorja.html" class="dropdown-item"> Fillorja</a>
+                        <a href="9vjecare.html" class="dropdown-item">9-vjecare</a>
+              
+                    </div>
+                </div>
+                <a href="drejtoria.html" class="nav-item nav-link">Drejtoria</a>
+                <a href="rrethnesh.html" class="nav-item nav-link">Rreth nesh</a>
+            </div>
+        </div>
+    </nav>
+    <!-- Navbar End -->
